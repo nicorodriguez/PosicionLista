@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\obj\Debug\netcoreapp3.1\PosicionLista.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\obj\Debug\netcoreapp3.1\PosicionLista.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\obj\Debug\netcoreapp3.1\PosicionLista.AssemblyInfo.cs
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\bin\Debug\netcoreapp3.1\PosicionLista.exe
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\bin\Debug\netcoreapp3.1\PosicionLista.deps.json
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\bin\Debug\netcoreapp3.1\PosicionLista.runtimeconfig.json
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\bin\Debug\netcoreapp3.1\PosicionLista.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\bin\Debug\netcoreapp3.1\PosicionLista.dll
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\bin\Debug\netcoreapp3.1\PosicionLista.pdb
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\obj\Debug\netcoreapp3.1\PosicionLista.dll
+C:\Users\rodri\source\repos\PosicionLista\PosicionLista\obj\Debug\netcoreapp3.1\PosicionLista.pdb
